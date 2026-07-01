@@ -7,3 +7,6 @@ Repository ini berisi perjalanan belajar Git & GitHub.
 - Belajar Git
 - Belajar GitHub
 - Membangun portfolio software engineering
+
+## Progress
+- Day 1 selesai ✅
