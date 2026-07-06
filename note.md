@@ -11,4 +11,4 @@ Hari pertama belajar Git.
 Belajar Branch Git
 
 Hari ini aku belajar bahwa branch bukan copy project, melainkan pointer ke commit.
-sekarang ditambah feature conflict untuk tim developer
+Sekarang ditambah pembahasan Feature Conflict untuk kolaborasi dalam tim developer.
