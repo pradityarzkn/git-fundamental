@@ -10,3 +10,4 @@ Repository ini berisi perjalanan belajar Git & GitHub.
 
 ## Progress
 - Day 1 selesai ✅
+- Belajar pull request
